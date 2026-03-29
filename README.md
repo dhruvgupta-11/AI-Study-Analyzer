@@ -62,6 +62,17 @@ Length of input - Estimated concept complexity
 
 ------------------------------------------------------------------------
 
+## How to Run
+
+1. Install Python (if not installed)
+2. Install required library:
+   pip install scikit-learn
+
+3. Run the project:
+   python main.py
+   
+------------------------------------------------------------------------
+
 ## Example Output
 
 Subject: AI_ML Topic: A\* Search
